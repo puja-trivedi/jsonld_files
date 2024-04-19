@@ -1,0 +1,4059 @@
+{
+  "@context": "https://raw.githubusercontent.com/brain-bican/bkbit/248a7ae86338f2520d2c3abafa79552baa52dea4/bkbit/models/purple_boxes.py",
+  "@graph": [
+    {
+      "was_derived_from": [
+        "NIMP:LA-QLULNC273557CVFLMQ819998",
+        "NIMP:LA-TWSPRO977953CVFLMQ819998",
+        "NIMP:LA-XMNYRP891535CVFLMQ819998",
+        "NIMP:LA-ZRTZNU703863CVFLMQ819998",
+        "NIMP:LA-KRNJLQ134481CVFLMQ819998",
+        "NIMP:LA-TMLOLP919130CVFLMQ819998",
+        "NIMP:LA-DDFMNG372245CVFLMQ819998",
+        "NIMP:LA-FGRWPY227572CVFLMQ819998",
+        "NIMP:LA-SUSLVB268156CVFLMQ819998"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:LP-CVFLMQ819998",
+      "iri": null,
+      "category": [
+        "bican:LibraryPool"
+      ],
+      "type": [],
+      "name": "ATX-16001",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "local_tube_id": "NY-AT16001"
+    },
+    {
+      "was_derived_from": "NIMP:LI-SUSLVB268156",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:LA-SUSLVB268156CVFLMQ819998",
+      "iri": null,
+      "category": [
+        "bican:LibraryAliquot"
+      ],
+      "type": [],
+      "name": "NY-AT16001-8",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:AC-ATDJAH472237",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:LI-SUSLVB268156",
+      "iri": null,
+      "category": [
+        "bican:Library"
+      ],
+      "type": [],
+      "name": "L8XA_230516_01_D05",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "average_size_bp": 889,
+      "concentration_nm": 102.26961812,
+      "pass_fail_result": "Pass",
+      "quantity_fmol": 2045,
+      "quantity_ng": 1200,
+      "r1_r2_index": null
+    },
+    {
+      "was_derived_from": "NIMP:BC-ABUEKB857169",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:AC-ATDJAH472237",
+      "iri": null,
+      "category": [
+        "bican:AmplifiedCdna"
+      ],
+      "type": [],
+      "name": "B8XM_230516_01_H01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "quantity_ng": null,
+      "pass_fail_result": "Pass",
+      "percent_cdna_longer_than_400bp": null
+    },
+    {
+      "was_derived_from": [
+        "NIMP:EC-VVWZAT390537",
+        "NIMP:EC-RRSVWP134225"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:BC-ABUEKB857169",
+      "iri": null,
+      "category": [
+        "bican:BarcodedCellSample"
+      ],
+      "type": [],
+      "name": "1713_B04",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "number_of_expected_cells": 10000
+    },
+    {
+      "was_derived_from": [
+        "NIMP:DC-LCTVYE458929"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:EC-RRSVWP134225",
+      "iri": null,
+      "category": [
+        "bican:EnrichedCellSample"
+      ],
+      "type": [],
+      "name": "M2XM_230512_231-R_B01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "enrichment_population": "No FACS",
+      "cell_source_oligo_name": null,
+      "histone_modification_marker": null
+    },
+    {
+      "was_derived_from": [
+        "NIMP:TI-XWKJ739163",
+        "NIMP:TI-JRZQ472373",
+        "NIMP:TI-FGIF465893",
+        "NIMP:TI-LWDA539971",
+        "NIMP:TI-DABD270004",
+        "NIMP:TI-WRSC964330",
+        "NIMP:TI-HOZG140406",
+        "NIMP:TI-QWUG276746",
+        "NIMP:TI-ECEZ765360",
+        "NIMP:TI-LMOL643609",
+        "NIMP:TI-ZQSV115820"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:DC-LCTVYE458929",
+      "iri": null,
+      "category": [
+        "bican:DissociatedCellSample"
+      ],
+      "type": [],
+      "name": "20230512_679646.002",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "cell_prep_type": "Nuclei",
+      "cell_source_oligo_name": null
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-ZQSV115820",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": null,
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:DO-PMSN7208",
+      "iri": null,
+      "category": [
+        "bican:Donor"
+      ],
+      "type": [],
+      "name": "C57BL6J-679646",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "in_taxon": null,
+      "in_taxon_label": null,
+      "biological_sex": "2",
+      "age_at_death_description": "P0",
+      "age_at_death_reference_point": "birth",
+      "age_at_death_unit": "days",
+      "age_at_death_value": null
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-LMOL643609",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-ECEZ765360",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-QWUG276746",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-HOZG140406",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-WRSC964330",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-DABD270004",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-LWDA539971",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-FGIF465893",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-JRZQ472373",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-XWKJ739163",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": [
+        "NIMP:DC-LCTVYE458929"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:EC-VVWZAT390537",
+      "iri": null,
+      "category": [
+        "bican:EnrichedCellSample"
+      ],
+      "type": [],
+      "name": "M2XM_230512_231-A_B01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "enrichment_population": "No FACS",
+      "cell_source_oligo_name": null,
+      "histone_modification_marker": null
+    },
+    {
+      "was_derived_from": "NIMP:LI-FGRWPY227572",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:LA-FGRWPY227572CVFLMQ819998",
+      "iri": null,
+      "category": [
+        "bican:LibraryAliquot"
+      ],
+      "type": [],
+      "name": "NY-AT16001-4",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:AC-LMXCVE306264",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:LI-FGRWPY227572",
+      "iri": null,
+      "category": [
+        "bican:Library"
+      ],
+      "type": [],
+      "name": "L8XA_230516_01_G04",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "average_size_bp": 828,
+      "concentration_nm": 115.27010495,
+      "pass_fail_result": "Pass",
+      "quantity_fmol": 2305,
+      "quantity_ng": 1259,
+      "r1_r2_index": null
+    },
+    {
+      "was_derived_from": "NIMP:BC-NSLUEG140297",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:AC-LMXCVE306264",
+      "iri": null,
+      "category": [
+        "bican:AmplifiedCdna"
+      ],
+      "type": [],
+      "name": "B8XM_230516_01_B01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "quantity_ng": null,
+      "pass_fail_result": "Pass",
+      "percent_cdna_longer_than_400bp": null
+    },
+    {
+      "was_derived_from": [
+        "NIMP:EC-NXURYX750897",
+        "NIMP:EC-XMRKTD571581"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:BC-NSLUEG140297",
+      "iri": null,
+      "category": [
+        "bican:BarcodedCellSample"
+      ],
+      "type": [],
+      "name": "1710_B02",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "number_of_expected_cells": 10000
+    },
+    {
+      "was_derived_from": [
+        "NIMP:DC-LAPUNW630767"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:EC-XMRKTD571581",
+      "iri": null,
+      "category": [
+        "bican:EnrichedCellSample"
+      ],
+      "type": [],
+      "name": "M2XM_230509_221-R_B01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "enrichment_population": "No FACS",
+      "cell_source_oligo_name": null,
+      "histone_modification_marker": null
+    },
+    {
+      "was_derived_from": [
+        "NIMP:TI-GWET972313",
+        "NIMP:TI-UXUV258454",
+        "NIMP:TI-NGPG953842",
+        "NIMP:TI-VDTB622662",
+        "NIMP:TI-DUTH826026",
+        "NIMP:TI-TMVM883102",
+        "NIMP:TI-VMOR189552",
+        "NIMP:TI-XGJL614637",
+        "NIMP:TI-MORT287338",
+        "NIMP:TI-QYNM278549"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:DC-LAPUNW630767",
+      "iri": null,
+      "category": [
+        "bican:DissociatedCellSample"
+      ],
+      "type": [],
+      "name": "20230509_670909.002",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "cell_prep_type": "Nuclei",
+      "cell_source_oligo_name": null
+    },
+    {
+      "was_derived_from": "NIMP:DO-DXEY1213",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-QYNM278549",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": null,
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:DO-DXEY1213",
+      "iri": null,
+      "category": [
+        "bican:Donor"
+      ],
+      "type": [],
+      "name": "C57BL6J-670909",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "in_taxon": null,
+      "in_taxon_label": null,
+      "biological_sex": "2",
+      "age_at_death_description": "P0",
+      "age_at_death_reference_point": "birth",
+      "age_at_death_unit": "days",
+      "age_at_death_value": null
+    },
+    {
+      "was_derived_from": "NIMP:DO-DXEY1213",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-MORT287338",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-DXEY1213",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-XGJL614637",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-DXEY1213",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-VMOR189552",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-DXEY1213",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-TMVM883102",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-DXEY1213",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-DUTH826026",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-DXEY1213",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-VDTB622662",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-DXEY1213",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-NGPG953842",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-DXEY1213",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-UXUV258454",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-DXEY1213",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-GWET972313",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": [
+        "NIMP:DC-LAPUNW630767"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:EC-NXURYX750897",
+      "iri": null,
+      "category": [
+        "bican:EnrichedCellSample"
+      ],
+      "type": [],
+      "name": "M2XM_230509_221-A_B01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "enrichment_population": "No FACS",
+      "cell_source_oligo_name": null,
+      "histone_modification_marker": null
+    },
+    {
+      "was_derived_from": "NIMP:LI-DDFMNG372245",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:LA-DDFMNG372245CVFLMQ819998",
+      "iri": null,
+      "category": [
+        "bican:LibraryAliquot"
+      ],
+      "type": [],
+      "name": "NY-AT16001-6",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:AC-JKDECJ285670",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:LI-DDFMNG372245",
+      "iri": null,
+      "category": [
+        "bican:Library"
+      ],
+      "type": [],
+      "name": "L8XA_230516_01_A05",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "average_size_bp": 822,
+      "concentration_nm": 134.86113768,
+      "pass_fail_result": "Pass",
+      "quantity_fmol": 2697,
+      "quantity_ng": 1463,
+      "r1_r2_index": null
+    },
+    {
+      "was_derived_from": "NIMP:BC-VWUBWT438222",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:AC-JKDECJ285670",
+      "iri": null,
+      "category": [
+        "bican:AmplifiedCdna"
+      ],
+      "type": [],
+      "name": "B8XM_230516_01_D01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "quantity_ng": null,
+      "pass_fail_result": "Pass",
+      "percent_cdna_longer_than_400bp": null
+    },
+    {
+      "was_derived_from": [
+        "NIMP:EC-PRYTQZ751260",
+        "NIMP:EC-KHDEDD342941"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:BC-VWUBWT438222",
+      "iri": null,
+      "category": [
+        "bican:BarcodedCellSample"
+      ],
+      "type": [],
+      "name": "1710_D02",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "number_of_expected_cells": 10000
+    },
+    {
+      "was_derived_from": [
+        "NIMP:DC-CKVKZB830962"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:EC-KHDEDD342941",
+      "iri": null,
+      "category": [
+        "bican:EnrichedCellSample"
+      ],
+      "type": [],
+      "name": "M2XM_230509_231-A_D01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "enrichment_population": "No FACS",
+      "cell_source_oligo_name": null,
+      "histone_modification_marker": null
+    },
+    {
+      "was_derived_from": [
+        "NIMP:TI-XZTD411312",
+        "NIMP:TI-QYPX997468",
+        "NIMP:TI-CFCD272008",
+        "NIMP:TI-RDLT657045",
+        "NIMP:TI-GMKW368698",
+        "NIMP:TI-IKQO801238",
+        "NIMP:TI-KMGQ672209",
+        "NIMP:TI-CJUB965147",
+        "NIMP:TI-ILNH967180",
+        "NIMP:TI-HLGD515022",
+        "NIMP:TI-YXLK752242"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:DC-CKVKZB830962",
+      "iri": null,
+      "category": [
+        "bican:DissociatedCellSample"
+      ],
+      "type": [],
+      "name": "20230509_672032.004",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "cell_prep_type": "Nuclei",
+      "cell_source_oligo_name": null
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-YXLK752242",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": null,
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:DO-GINI5305",
+      "iri": null,
+      "category": [
+        "bican:Donor"
+      ],
+      "type": [],
+      "name": "C57BL6J-672032",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "in_taxon": null,
+      "in_taxon_label": null,
+      "biological_sex": "2",
+      "age_at_death_description": "P0",
+      "age_at_death_reference_point": "birth",
+      "age_at_death_unit": "days",
+      "age_at_death_value": null
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-HLGD515022",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-ILNH967180",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-CJUB965147",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-KMGQ672209",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-IKQO801238",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-GMKW368698",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-RDLT657045",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-CFCD272008",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-QYPX997468",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-XZTD411312",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": [
+        "NIMP:DC-CKVKZB830962"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:EC-PRYTQZ751260",
+      "iri": null,
+      "category": [
+        "bican:EnrichedCellSample"
+      ],
+      "type": [],
+      "name": "M2XM_230509_231-R_D01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "enrichment_population": "No FACS",
+      "cell_source_oligo_name": null,
+      "histone_modification_marker": null
+    },
+    {
+      "was_derived_from": "NIMP:LI-TMLOLP919130",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:LA-TMLOLP919130CVFLMQ819998",
+      "iri": null,
+      "category": [
+        "bican:LibraryAliquot"
+      ],
+      "type": [],
+      "name": "NY-AT16001-1",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:AC-PIHKHL423319",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:LI-TMLOLP919130",
+      "iri": null,
+      "category": [
+        "bican:Library"
+      ],
+      "type": [],
+      "name": "L8XA_230509_01_D04",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "average_size_bp": 843,
+      "concentration_nm": 90.07586168,
+      "pass_fail_result": "Pass",
+      "quantity_fmol": 1801,
+      "quantity_ng": 1002,
+      "r1_r2_index": null
+    },
+    {
+      "was_derived_from": "NIMP:BC-VUXUYR267842",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:AC-PIHKHL423319",
+      "iri": null,
+      "category": [
+        "bican:AmplifiedCdna"
+      ],
+      "type": [],
+      "name": "B8XM_230509_01_C02",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "quantity_ng": null,
+      "pass_fail_result": "Pass",
+      "percent_cdna_longer_than_400bp": null
+    },
+    {
+      "was_derived_from": [
+        "NIMP:EC-ZBWBXT872292",
+        "NIMP:EC-IEACBG547481"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:BC-VUXUYR267842",
+      "iri": null,
+      "category": [
+        "bican:BarcodedCellSample"
+      ],
+      "type": [],
+      "name": "1709_A01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "number_of_expected_cells": 10000
+    },
+    {
+      "was_derived_from": [
+        "NIMP:DC-HUJRXV794951"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:EC-IEACBG547481",
+      "iri": null,
+      "category": [
+        "bican:EnrichedCellSample"
+      ],
+      "type": [],
+      "name": "M2XM_230508_211-A_A01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "enrichment_population": "No FACS",
+      "cell_source_oligo_name": null,
+      "histone_modification_marker": null
+    },
+    {
+      "was_derived_from": [
+        "NIMP:TI-YBDX191018",
+        "NIMP:TI-WEVD382834",
+        "NIMP:TI-QWUM539742",
+        "NIMP:TI-BSAS768968",
+        "NIMP:TI-PNFN361895",
+        "NIMP:TI-HQHP664203",
+        "NIMP:TI-HJPN208281",
+        "NIMP:TI-EXXI937842",
+        "NIMP:TI-KCKO297598",
+        "NIMP:TI-XZFD940925",
+        "NIMP:TI-UMNY703806",
+        "NIMP:TI-WOWI455660",
+        "NIMP:TI-BJVK810521"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:DC-HUJRXV794951",
+      "iri": null,
+      "category": [
+        "bican:DissociatedCellSample"
+      ],
+      "type": [],
+      "name": "20230508_670908.001",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "cell_prep_type": "Nuclei",
+      "cell_source_oligo_name": null
+    },
+    {
+      "was_derived_from": "NIMP:DO-EOMJ4969",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-BJVK810521",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": null,
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:DO-EOMJ4969",
+      "iri": null,
+      "category": [
+        "bican:Donor"
+      ],
+      "type": [],
+      "name": "C57BL6J-670908",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "in_taxon": null,
+      "in_taxon_label": null,
+      "biological_sex": "2",
+      "age_at_death_description": "P0",
+      "age_at_death_reference_point": "birth",
+      "age_at_death_unit": "days",
+      "age_at_death_value": null
+    },
+    {
+      "was_derived_from": "NIMP:DO-EOMJ4969",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-WOWI455660",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-EOMJ4969",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-UMNY703806",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-EOMJ4969",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-XZFD940925",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-EOMJ4969",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-KCKO297598",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-EOMJ4969",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-EXXI937842",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-EOMJ4969",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-HJPN208281",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-EOMJ4969",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-HQHP664203",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-EOMJ4969",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-PNFN361895",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-EOMJ4969",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-BSAS768968",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-EOMJ4969",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-QWUM539742",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-EOMJ4969",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-WEVD382834",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-EOMJ4969",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-YBDX191018",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": [
+        "NIMP:DC-HUJRXV794951"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:EC-ZBWBXT872292",
+      "iri": null,
+      "category": [
+        "bican:EnrichedCellSample"
+      ],
+      "type": [],
+      "name": "M2XM_230508_211-R_A01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "enrichment_population": "No FACS",
+      "cell_source_oligo_name": null,
+      "histone_modification_marker": null
+    },
+    {
+      "was_derived_from": "NIMP:LI-KRNJLQ134481",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:LA-KRNJLQ134481CVFLMQ819998",
+      "iri": null,
+      "category": [
+        "bican:LibraryAliquot"
+      ],
+      "type": [],
+      "name": "NY-AT16001-5",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:AC-HXRXIL819184",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:LI-KRNJLQ134481",
+      "iri": null,
+      "category": [
+        "bican:Library"
+      ],
+      "type": [],
+      "name": "L8XA_230516_01_H04",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "average_size_bp": 843,
+      "concentration_nm": 82.94669261,
+      "pass_fail_result": "Pass",
+      "quantity_fmol": 1658,
+      "quantity_ng": 922,
+      "r1_r2_index": null
+    },
+    {
+      "was_derived_from": "NIMP:BC-FVPVGJ323726",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:AC-HXRXIL819184",
+      "iri": null,
+      "category": [
+        "bican:AmplifiedCdna"
+      ],
+      "type": [],
+      "name": "B8XM_230516_01_C01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "quantity_ng": null,
+      "pass_fail_result": "Pass",
+      "percent_cdna_longer_than_400bp": null
+    },
+    {
+      "was_derived_from": [
+        "NIMP:EC-IGXYCB425353",
+        "NIMP:EC-GGFVPV692565"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:BC-FVPVGJ323726",
+      "iri": null,
+      "category": [
+        "bican:BarcodedCellSample"
+      ],
+      "type": [],
+      "name": "1710_C02",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "number_of_expected_cells": 10000
+    },
+    {
+      "was_derived_from": [
+        "NIMP:DC-SMSPNE598063"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:EC-GGFVPV692565",
+      "iri": null,
+      "category": [
+        "bican:EnrichedCellSample"
+      ],
+      "type": [],
+      "name": "M2XM_230509_231-R_C01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "enrichment_population": "No FACS",
+      "cell_source_oligo_name": null,
+      "histone_modification_marker": null
+    },
+    {
+      "was_derived_from": [
+        "NIMP:TI-BVFA872476",
+        "NIMP:TI-YPOC268971",
+        "NIMP:TI-BSUX971742",
+        "NIMP:TI-RURS660619",
+        "NIMP:TI-VCZQ132394",
+        "NIMP:TI-ACIG939134",
+        "NIMP:TI-ZLTB500117",
+        "NIMP:TI-GJGH972244",
+        "NIMP:TI-ZBVF316050",
+        "NIMP:TI-RTWY582313",
+        "NIMP:TI-NLXF510061",
+        "NIMP:TI-CRXV938557",
+        "NIMP:TI-UTSY276865",
+        "NIMP:TI-LMHF351291",
+        "NIMP:TI-QYNT171891",
+        "NIMP:TI-LCKZ408815",
+        "NIMP:TI-VKJQ667350",
+        "NIMP:TI-LRPB166215"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:DC-SMSPNE598063",
+      "iri": null,
+      "category": [
+        "bican:DissociatedCellSample"
+      ],
+      "type": [],
+      "name": "20230509_672032.003",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "cell_prep_type": "Nuclei",
+      "cell_source_oligo_name": null
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-LRPB166215",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-VKJQ667350",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-LCKZ408815",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-QYNT171891",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-LMHF351291",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-UTSY276865",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-CRXV938557",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-NLXF510061",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-RTWY582313",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-ZBVF316050",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-GJGH972244",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-ZLTB500117",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-ACIG939134",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-VCZQ132394",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-RURS660619",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-BSUX971742",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-YPOC268971",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-GINI5305",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-BVFA872476",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": [
+        "NIMP:DC-SMSPNE598063"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:EC-IGXYCB425353",
+      "iri": null,
+      "category": [
+        "bican:EnrichedCellSample"
+      ],
+      "type": [],
+      "name": "M2XM_230509_231-A_C01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "enrichment_population": "No FACS",
+      "cell_source_oligo_name": null,
+      "histone_modification_marker": null
+    },
+    {
+      "was_derived_from": "NIMP:LI-ZRTZNU703863",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:LA-ZRTZNU703863CVFLMQ819998",
+      "iri": null,
+      "category": [
+        "bican:LibraryAliquot"
+      ],
+      "type": [],
+      "name": "NY-AT16001-7",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:AC-IWDZZE844008",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:LI-ZRTZNU703863",
+      "iri": null,
+      "category": [
+        "bican:Library"
+      ],
+      "type": [],
+      "name": "L8XA_230516_01_C05",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "average_size_bp": 934,
+      "concentration_nm": 115.32479843,
+      "pass_fail_result": "Pass",
+      "quantity_fmol": 2306,
+      "quantity_ng": 1421,
+      "r1_r2_index": null
+    },
+    {
+      "was_derived_from": "NIMP:BC-RMMAHD382121",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:AC-IWDZZE844008",
+      "iri": null,
+      "category": [
+        "bican:AmplifiedCdna"
+      ],
+      "type": [],
+      "name": "B8XM_230516_01_G01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "quantity_ng": null,
+      "pass_fail_result": "Pass",
+      "percent_cdna_longer_than_400bp": null
+    },
+    {
+      "was_derived_from": [
+        "NIMP:EC-KKJSNN184659",
+        "NIMP:EC-HLHKII466783"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:BC-RMMAHD382121",
+      "iri": null,
+      "category": [
+        "bican:BarcodedCellSample"
+      ],
+      "type": [],
+      "name": "1713_A04",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "number_of_expected_cells": 10000
+    },
+    {
+      "was_derived_from": [
+        "NIMP:DC-LGGYNK326253"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:EC-HLHKII466783",
+      "iri": null,
+      "category": [
+        "bican:EnrichedCellSample"
+      ],
+      "type": [],
+      "name": "M2XM_230512_231-R_A01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "enrichment_population": "No FACS",
+      "cell_source_oligo_name": null,
+      "histone_modification_marker": null
+    },
+    {
+      "was_derived_from": [
+        "NIMP:TI-SBSU972938",
+        "NIMP:TI-ZHWC921402",
+        "NIMP:TI-YTWT554541",
+        "NIMP:TI-IYNM561611",
+        "NIMP:TI-BQPW513774",
+        "NIMP:TI-GSAI594998",
+        "NIMP:TI-OKYK207970",
+        "NIMP:TI-OMEI255294",
+        "NIMP:TI-FTSS338954",
+        "NIMP:TI-EMDL210358",
+        "NIMP:TI-RCVL608580",
+        "NIMP:TI-NUFM533870",
+        "NIMP:TI-ZCEY654599",
+        "NIMP:TI-JAZN514188",
+        "NIMP:TI-KGUG949408",
+        "NIMP:TI-CIKQ335812"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:DC-LGGYNK326253",
+      "iri": null,
+      "category": [
+        "bican:DissociatedCellSample"
+      ],
+      "type": [],
+      "name": "20230512_679646.001",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "cell_prep_type": "Nuclei",
+      "cell_source_oligo_name": null
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-CIKQ335812",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-KGUG949408",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-JAZN514188",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-ZCEY654599",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-NUFM533870",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-RCVL608580",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-EMDL210358",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-FTSS338954",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-OMEI255294",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-OKYK207970",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-GSAI594998",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-BQPW513774",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-IYNM561611",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-YTWT554541",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-ZHWC921402",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-PMSN7208",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-SBSU972938",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": [
+        "NIMP:DC-LGGYNK326253"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:EC-KKJSNN184659",
+      "iri": null,
+      "category": [
+        "bican:EnrichedCellSample"
+      ],
+      "type": [],
+      "name": "M2XM_230512_231-A_A01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "enrichment_population": "No FACS",
+      "cell_source_oligo_name": null,
+      "histone_modification_marker": null
+    },
+    {
+      "was_derived_from": "NIMP:LI-XMNYRP891535",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:LA-XMNYRP891535CVFLMQ819998",
+      "iri": null,
+      "category": [
+        "bican:LibraryAliquot"
+      ],
+      "type": [],
+      "name": "NY-AT16001-3",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:AC-RSDWUY434294",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:LI-XMNYRP891535",
+      "iri": null,
+      "category": [
+        "bican:Library"
+      ],
+      "type": [],
+      "name": "L8XA_230516_01_G05",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "average_size_bp": 802,
+      "concentration_nm": 200.39690479,
+      "pass_fail_result": "Pass",
+      "quantity_fmol": 4007,
+      "quantity_ng": 2121,
+      "r1_r2_index": null
+    },
+    {
+      "was_derived_from": "NIMP:BC-NGEIIH975806",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:AC-RSDWUY434294",
+      "iri": null,
+      "category": [
+        "bican:AmplifiedCdna"
+      ],
+      "type": [],
+      "name": "B8XM_230516_01_A01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "quantity_ng": null,
+      "pass_fail_result": "Pass",
+      "percent_cdna_longer_than_400bp": null
+    },
+    {
+      "was_derived_from": [
+        "NIMP:EC-TSKONG488712",
+        "NIMP:EC-GEEDDC342939"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:BC-NGEIIH975806",
+      "iri": null,
+      "category": [
+        "bican:BarcodedCellSample"
+      ],
+      "type": [],
+      "name": "1710_A02",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "number_of_expected_cells": 10000
+    },
+    {
+      "was_derived_from": [
+        "NIMP:DC-UYXQJY775544"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:EC-GEEDDC342939",
+      "iri": null,
+      "category": [
+        "bican:EnrichedCellSample"
+      ],
+      "type": [],
+      "name": "M2XM_230509_221-A_A01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "enrichment_population": "No FACS",
+      "cell_source_oligo_name": null,
+      "histone_modification_marker": null
+    },
+    {
+      "was_derived_from": [
+        "NIMP:TI-ZIZI288313",
+        "NIMP:TI-GQLO143369",
+        "NIMP:TI-MBNC454870",
+        "NIMP:TI-KZFD349925",
+        "NIMP:TI-BQPW647856",
+        "NIMP:TI-DMDF606375",
+        "NIMP:TI-OUSE800566",
+        "NIMP:TI-FESR344439",
+        "NIMP:TI-EOJM998949",
+        "NIMP:TI-SHTI201298",
+        "NIMP:TI-HKHI589707",
+        "NIMP:TI-HYHY325492",
+        "NIMP:TI-ZTDY865584",
+        "NIMP:TI-BVFA857136"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:DC-UYXQJY775544",
+      "iri": null,
+      "category": [
+        "bican:DissociatedCellSample"
+      ],
+      "type": [],
+      "name": "20230509_670909.001",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "cell_prep_type": "Nuclei",
+      "cell_source_oligo_name": null
+    },
+    {
+      "was_derived_from": "NIMP:DO-DXEY1213",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-BVFA857136",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-DXEY1213",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-ZTDY865584",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-DXEY1213",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-HYHY325492",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-DXEY1213",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-HKHI589707",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-DXEY1213",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-SHTI201298",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-DXEY1213",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-EOJM998949",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-DXEY1213",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-FESR344439",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-DXEY1213",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-OUSE800566",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-DXEY1213",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-DMDF606375",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-DXEY1213",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-BQPW647856",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-DXEY1213",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-KZFD349925",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-DXEY1213",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-MBNC454870",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-DXEY1213",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-GQLO143369",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-DXEY1213",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-ZIZI288313",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": [
+        "NIMP:DC-UYXQJY775544"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:EC-TSKONG488712",
+      "iri": null,
+      "category": [
+        "bican:EnrichedCellSample"
+      ],
+      "type": [],
+      "name": "M2XM_230509_221-R_A01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "enrichment_population": "No FACS",
+      "cell_source_oligo_name": null,
+      "histone_modification_marker": null
+    },
+    {
+      "was_derived_from": "NIMP:LI-TWSPRO977953",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:LA-TWSPRO977953CVFLMQ819998",
+      "iri": null,
+      "category": [
+        "bican:LibraryAliquot"
+      ],
+      "type": [],
+      "name": "NY-AT16001-9",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:AC-ZODDBE255473",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:LI-TWSPRO977953",
+      "iri": null,
+      "category": [
+        "bican:Library"
+      ],
+      "type": [],
+      "name": "L8XA_230516_01_E05",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "average_size_bp": 875,
+      "concentration_nm": 67.21168287,
+      "pass_fail_result": "Pass",
+      "quantity_fmol": 1344,
+      "quantity_ng": 776,
+      "r1_r2_index": null
+    },
+    {
+      "was_derived_from": "NIMP:BC-RGGEHI714847",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:AC-ZODDBE255473",
+      "iri": null,
+      "category": [
+        "bican:AmplifiedCdna"
+      ],
+      "type": [],
+      "name": "B8XM_230516_01_A02",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "quantity_ng": null,
+      "pass_fail_result": "Pass",
+      "percent_cdna_longer_than_400bp": null
+    },
+    {
+      "was_derived_from": [
+        "NIMP:EC-RSRQPO331459",
+        "NIMP:EC-TQHWFQ202932"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:BC-RGGEHI714847",
+      "iri": null,
+      "category": [
+        "bican:BarcodedCellSample"
+      ],
+      "type": [],
+      "name": "1713_C04",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "number_of_expected_cells": 10000
+    },
+    {
+      "was_derived_from": [
+        "NIMP:DC-ROFUDO967654"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:EC-TQHWFQ202932",
+      "iri": null,
+      "category": [
+        "bican:EnrichedCellSample"
+      ],
+      "type": [],
+      "name": "M2XM_230512_211-A_C01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "enrichment_population": "No FACS",
+      "cell_source_oligo_name": null,
+      "histone_modification_marker": null
+    },
+    {
+      "was_derived_from": [
+        "NIMP:TI-JXWW561518",
+        "NIMP:TI-THGG799298",
+        "NIMP:TI-GMKC407288",
+        "NIMP:TI-KNPJ894434",
+        "NIMP:TI-ZSXE941426",
+        "NIMP:TI-AAJA818740",
+        "NIMP:TI-OMXE369626",
+        "NIMP:TI-SDKD260952",
+        "NIMP:TI-RCJC863007"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:DC-ROFUDO967654",
+      "iri": null,
+      "category": [
+        "bican:DissociatedCellSample"
+      ],
+      "type": [],
+      "name": "20230512_679647.002",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "cell_prep_type": "Nuclei",
+      "cell_source_oligo_name": null
+    },
+    {
+      "was_derived_from": "NIMP:DO-BCBW2308",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-RCJC863007",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": null,
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:DO-BCBW2308",
+      "iri": null,
+      "category": [
+        "bican:Donor"
+      ],
+      "type": [],
+      "name": "C57BL6J-679647",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "in_taxon": null,
+      "in_taxon_label": null,
+      "biological_sex": "2",
+      "age_at_death_description": "P0",
+      "age_at_death_reference_point": "birth",
+      "age_at_death_unit": "days",
+      "age_at_death_value": null
+    },
+    {
+      "was_derived_from": "NIMP:DO-BCBW2308",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-SDKD260952",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-BCBW2308",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-OMXE369626",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-BCBW2308",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-AAJA818740",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-BCBW2308",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-ZSXE941426",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-BCBW2308",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-KNPJ894434",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-BCBW2308",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-GMKC407288",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-BCBW2308",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-THGG799298",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-BCBW2308",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-JXWW561518",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": [
+        "NIMP:DC-ROFUDO967654"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:EC-RSRQPO331459",
+      "iri": null,
+      "category": [
+        "bican:EnrichedCellSample"
+      ],
+      "type": [],
+      "name": "M2XM_230512_211-R_C01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "enrichment_population": "No FACS",
+      "cell_source_oligo_name": null,
+      "histone_modification_marker": null
+    },
+    {
+      "was_derived_from": "NIMP:LI-QLULNC273557",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:LA-QLULNC273557CVFLMQ819998",
+      "iri": null,
+      "category": [
+        "bican:LibraryAliquot"
+      ],
+      "type": [],
+      "name": "NY-AT16001-2",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:AC-RGQIRA401509",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:LI-QLULNC273557",
+      "iri": null,
+      "category": [
+        "bican:Library"
+      ],
+      "type": [],
+      "name": "L8XA_230509_01_E04",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "average_size_bp": 883,
+      "concentration_nm": 89.33568229,
+      "pass_fail_result": "Pass",
+      "quantity_fmol": 1786,
+      "quantity_ng": 1041,
+      "r1_r2_index": null
+    },
+    {
+      "was_derived_from": "NIMP:BC-DAPZRA919647",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:AC-RGQIRA401509",
+      "iri": null,
+      "category": [
+        "bican:AmplifiedCdna"
+      ],
+      "type": [],
+      "name": "B8XM_230509_01_D02",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "quantity_ng": null,
+      "pass_fail_result": "Pass",
+      "percent_cdna_longer_than_400bp": null
+    },
+    {
+      "was_derived_from": [
+        "NIMP:EC-RLQOBQ700198",
+        "NIMP:EC-ZOYQZT566166"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:BC-DAPZRA919647",
+      "iri": null,
+      "category": [
+        "bican:BarcodedCellSample"
+      ],
+      "type": [],
+      "name": "1709_B01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "number_of_expected_cells": 10000
+    },
+    {
+      "was_derived_from": [
+        "NIMP:DC-ZTYWJY809396"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:EC-ZOYQZT566166",
+      "iri": null,
+      "category": [
+        "bican:EnrichedCellSample"
+      ],
+      "type": [],
+      "name": "M2XM_230508_211-R_B01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "enrichment_population": "No FACS",
+      "cell_source_oligo_name": null,
+      "histone_modification_marker": null
+    },
+    {
+      "was_derived_from": [
+        "NIMP:TI-DXHC143412",
+        "NIMP:TI-FNVM471537",
+        "NIMP:TI-IQHP429386",
+        "NIMP:TI-KCAZ490332",
+        "NIMP:TI-BDJH969789",
+        "NIMP:TI-MSQC108314",
+        "NIMP:TI-MECB277680",
+        "NIMP:TI-XEBS494784",
+        "NIMP:TI-RPBJ720795",
+        "NIMP:TI-BYZS717176",
+        "NIMP:TI-FOFN607443",
+        "NIMP:TI-ZQYQ597236"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:DC-ZTYWJY809396",
+      "iri": null,
+      "category": [
+        "bican:DissociatedCellSample"
+      ],
+      "type": [],
+      "name": "20230508_670908.002",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "cell_prep_type": "Nuclei",
+      "cell_source_oligo_name": null
+    },
+    {
+      "was_derived_from": "NIMP:DO-EOMJ4969",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-ZQYQ597236",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-EOMJ4969",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-FOFN607443",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-EOMJ4969",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-BYZS717176",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-EOMJ4969",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-RPBJ720795",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-EOMJ4969",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-XEBS494784",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-EOMJ4969",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-MECB277680",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-EOMJ4969",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-MSQC108314",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-EOMJ4969",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-BDJH969789",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-EOMJ4969",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-KCAZ490332",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-EOMJ4969",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-IQHP429386",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-EOMJ4969",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-FNVM471537",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": "NIMP:DO-EOMJ4969",
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:TI-DXHC143412",
+      "iri": null,
+      "category": [
+        "bican:TissueSample"
+      ],
+      "type": [],
+      "name": null,
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": []
+    },
+    {
+      "was_derived_from": [
+        "NIMP:DC-ZTYWJY809396"
+      ],
+      "was_generated_by": null,
+      "annotates": null,
+      "dissection_was_guided_by": null,
+      "id": "NIMP:EC-RLQOBQ700198",
+      "iri": null,
+      "category": [
+        "bican:EnrichedCellSample"
+      ],
+      "type": [],
+      "name": "M2XM_230508_211-A_B01",
+      "description": null,
+      "has_attribute": null,
+      "deprecated": null,
+      "provided_by": null,
+      "xref": [],
+      "full_name": null,
+      "synonym": [],
+      "enrichment_population": "No FACS",
+      "cell_source_oligo_name": null,
+      "histone_modification_marker": null
+    }
+  ]
+}
